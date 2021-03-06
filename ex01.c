@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main(){
 	float total,final;
@@ -14,4 +14,4 @@ int main(){
 	}else{
 			printf("R$ %.2f",total);	
 		}
-}
+}*/
