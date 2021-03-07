@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int main(void) {
   int a,b;
 	printf("Digite um numero ");
@@ -11,4 +11,4 @@ int main(void) {
 		printf("%i %i", b,a);
 	}
   return 0;
-}
+}*/
