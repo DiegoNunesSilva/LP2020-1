@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main(){
 	int x,x1,x2,y,y1,y2;
@@ -28,4 +28,4 @@ int main(){
 					printf("%i %i %i %i %i %i", y1,y,y2,x1,x,x2);
 						
 			
-}
+}*/
