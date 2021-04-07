@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main(){
 int valor,resto,n100,n50,n20,n10,n5,n2,n1;
@@ -37,6 +37,6 @@ printf("%i Notas de R$ 1\n",n1);
 
 return 0;
   
-  }
+  }*/
 
   			
