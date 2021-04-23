@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int main () {
 
 int valor,resto,n100,n50,n20,n10,n5,n2,n1;
@@ -44,7 +44,7 @@ if (n100 != 0 )  {
 
 return 0 ;
 
-}
+}*/
 
 
 
