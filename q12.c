@@ -3,11 +3,11 @@ int main (){
 
   int x, numero, limite ;
 
-  scanf("%i", &x);
+  scanf("%i", &numero);
 
 
 
-  for (x = 1; x<=100; ){
+  for (x=1; x<=numero; ){
 
       if(x % 4 ==0){
         printf("Pin,");
