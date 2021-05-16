@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main (){
 
@@ -37,4 +37,4 @@ if(i>1000){
 }
 
   return 0;
-}
+}*/
